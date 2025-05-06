@@ -7,5 +7,5 @@ o_O
 
 Посилання на мій сайт: [soyvej.github.io/id9202817](https://soyvej.github.io/id9202817/)
 
-Посилання на спільний репозиторій з моїми однокурсниками: [https://github.com/PorokhovnichenkoIryna/learning_git](https://github.com/PorokhovnichenkoIryna/learning_git)
+Посилання на спільний репозиторій з моїми однокурсниками: [github.com/PorokhovnichenkoIryna/learning_git](https://github.com/PorokhovnichenkoIryna/learning_git)
 
